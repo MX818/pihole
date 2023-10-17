@@ -1,3 +1,4 @@
+//domain and its subdomains
 (\.|^)coldvain\.com$
 (\.|^)bidgear\.com$
 (\.|^)bunnycdn\.ru$
