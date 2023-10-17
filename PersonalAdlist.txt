@@ -5,3 +5,4 @@
 (\.|^)potsaglu\.net$
 (\.|^)sharethis\.com$
 (\.|^)jsdelivr\.net$
+(\.|^)dalethsplicae\.website$
