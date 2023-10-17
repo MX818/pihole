@@ -6,3 +6,4 @@
 (\.|^)sharethis\.com$
 (\.|^)jsdelivr\.net$
 (\.|^)dalethsplicae\.website$
+(\.|^)js.findjandescant\.com$
