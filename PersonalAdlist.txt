@@ -8,3 +8,6 @@
 (\.|^)jsdelivr\.net$
 (\.|^)dalethsplicae\.website$
 (\.|^)js.findjandescant\.com$
+(\.|^)js.findjandescant\.com$
+prod.tahoe-analytics.publishers.advertising.a2z.com
+a.vidoomy.com
